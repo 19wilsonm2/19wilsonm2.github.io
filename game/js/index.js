@@ -60,7 +60,6 @@ function marcogame() {
 		}
 		else {
 							alert("Good Job " + name)
-		alert("Please Rate Below");
 		alert("A game by Marco Wilson");
 		}
 
