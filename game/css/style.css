@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px&subset=latin,latin-ext);
+h1 {
+		color: White;
+		font-size: 100px;
+		text-align: center
+}
+
+body {
+		background-image: url("http://cdn.miramax.com/media/assets/674_BoyInTheStripedPajamasThe_Catalog_Poster_Approved.png");
+}
+
+body {
+		font-family: Swromnc
+}
+
+button {
+		font-size: 52px;
+}
+
+button {
+		text-align: center
+}
+
+button {
+		background: #428BCA;
+		color: #fff;
+		font-family: Sans-Serif;
+		font-size: 20px;
+		height: 60px;
+		width: 150px;
+		line-height: 60px;
+		margin: 25px 25px;
+		text-align: center;
+		text-align: bottom;
+		border: 1px solid black;
+		transition: all 0.3s ease 0s;
+}
+
+button:hover {
+		background-color: green;
+}
