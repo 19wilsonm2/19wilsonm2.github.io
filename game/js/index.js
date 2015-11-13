@@ -1,7 +1,6 @@
 function marcogame() {
 		alert("Welcome to my game!")
 		var name = prompt("What Is Your Name");
-		alert("Hello "+ name "welcome to my quiz!")
 		alert("THIS GAME IS CASE SENSITIVE")
 		var Score;
 		Score = 0;
