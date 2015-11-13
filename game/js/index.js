@@ -60,7 +60,7 @@ function marcogame() {
 		}
 		else {
 							alert("Good Job " + name)
-		alert("A game by Marco Wilson");
+		
 		}
-
+alert("A game by Marco Wilson");
 }
